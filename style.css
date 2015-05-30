@@ -1,0 +1,273 @@
+body { 
+    margin: 0;
+    padding: 0; 
+    font-family: "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    background: url(images/background.png) repeat-x #E9EEF2;
+}
+
+#title {
+width: 1024px;
+height: 60px;
+margin: 0 auto;
+padding: 0px;
+text-align: center;
+position: relative;
+}
+
+.firstlayer {
+font-size: 35px;
+font-weight: bold;
+color: #fff;
+position: absolute;
+top: 0px;
+left: 247px;
+z-index: 1;
+}
+
+.secondlayer {
+font-size: 35px;
+font-weight: bold;
+color: #000;
+position: absolute;
+top: 2px;
+left: 250px;
+z-index: 0;
+}
+
+.firstlayersub {
+font-size: 14px;
+font-weight: bold;
+color: #000;
+position: absolute;
+top: 43px;
+left: 144px;
+z-index: 1;
+width: auto;
+}
+
+.secondlayersub {
+font-size: 14px;
+font-weight: bold;
+color: #fff;
+position: absolute;
+top: 45px;
+left: 146px;
+z-index: 0;
+width: auto;
+}
+
+#title {
+	width: 728px;
+	height: 70px;
+	background: none;
+}
+
+#title h1 {
+	text-align: center;
+}
+
+#title h2 {
+	text-align: center;
+	font-size: 14px;
+}
+
+#intro {
+    width: 984px;
+	margin: 0 auto;
+	background: url(images/introbg.png) no-repeat;
+	padding: 10px 0 20px 0;
+}
+
+h1 {
+    margin: 0;
+    padding: 0;
+}
+
+h2 {
+    margin: 0;
+    padding: 0;
+}
+
+h3 {
+	font-size: 14px;
+	margin: 0;
+	padding: 5px 20px;
+}
+
+p {
+    margin: 0;
+    padding: 3px 20px;
+	font-size: 12px;
+}
+
+#slider {
+    width: 1000px;
+    margin: 0 auto;
+    padding: 0;
+    position: relative;
+}
+
+
+.Premium {
+    width: 980px;
+    overflow: auto;
+    overflow-x: hidden;
+    position: relative;
+    left: 10px;
+    clear: left;
+    background: #FFFFFF url(images/content_pane-gradient.gif) repeat-x scroll left bottom;
+}
+
+.Premium p {
+    margin: 0;
+    padding: 3px;
+	font-size: 12px;
+}
+.PremiumContainer div.panel {
+    padding: 0px;
+    width: 1000px;
+}.Main {
+    width: 980px;
+    overflow: auto;
+    overflow-x: hidden;
+    position: relative;
+    left: 10px;
+    clear: left;
+    background: #FFFFFF url(images/content_pane-gradient.gif) repeat-x scroll left bottom;
+}
+
+.Main p {
+    margin: 0;
+    padding: 3px;
+	font-size: 12px;
+}
+
+.MainContainer div.panel {
+    padding: 5px;
+    width: 980px;
+}
+
+#shade {
+    width: 1000px;
+	background: url(images/shade.png) no-repeat;
+    height: 46px;
+	margin: 0 auto;
+	padding: 0;
+}
+
+ul.navigation {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    padding-bottom: 9px;
+}
+
+ul.navigation li {
+    display: inline;
+    margin-right: 10px;
+}
+
+ul.navigation a {
+    padding: 6px 10px;
+    color: #000;
+    text-decoration: bold;
+	font-size: 14px;
+}
+
+ul.navigation a:hover {
+    background-color: #5A6C85;
+	color: #FFF;
+	border-radius: 8px;
+	-moz-border-radius: 8px;
+}
+
+ul.navigation a.selected {
+    background: #FD9604;
+	color: #FFF;
+	border-radius: 8px;
+	-moz-border-radius: 8px;
+}
+
+ul.navigation a.selected:hover {
+	background-color: #5A6C85;
+	color: #FFF;
+	border-radius: 8px;
+	-moz-border-radius: 8px;
+}
+
+ul.navigation a:focus {
+    outline: none;
+}
+
+.scrollButtons {
+    position: absolute;
+    top: 150px;
+    cursor: pointer;
+}
+
+.scrollButtons.left {
+    left: -20px;
+}
+
+.scrollButtons.right {
+    right: -20px;
+}
+
+.hide {
+    display: none;
+}
+
+#top {
+	width: 1024px;
+	height: 122px;
+	background: url(images/top.png) no-repeat;
+	margin: 10px auto 0 auto;
+	padding: 0;
+	position: relative;
+}
+
+.logo {
+	position: absolute;
+	background: url(images/logo.jpg) no-repeat;
+        width: 978px;
+        height: 82px;
+	top: 20px;
+	left: 24px;
+}
+
+#wrapper {
+    width: 1024px;
+    margin: 0 auto;
+	padding: 0;
+	background: url(images/bg.png) repeat-y;
+}
+
+#bottom {
+	width: 1024px;
+	height: 40px;
+	background: url(images/bottom.png) no-repeat;
+	margin: 0 auto 1px auto;
+	padding: 0;
+	text-align: center;
+	font-size: 10px;
+}
+
+#footer {
+	width: 1024px;
+	height: auto;
+	margin: 10px auto;
+	padding: 0;
+}
+
+#footer p{
+	color: #555555;
+	margin: 0;
+	padding: 0;
+	text-align: center;
+	font-size: 10px;
+}
+
+#footer a{
+	color: #000000;
+	text-decoration: none;
+}
