@@ -1,7 +1,6 @@
 # Curve-Host-Web-Template
 Curve-Host - For use with: MyOwnFreeHost
 
-
 Template Name: Curve-Host<br />
 Designer: BurkeKnight & HTMLstig<br />
 Date Added: October 19, 2014<br />
