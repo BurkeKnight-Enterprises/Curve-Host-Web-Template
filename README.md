@@ -1,5 +1,11 @@
 # Curve-Host-Web-Template
-Curve-Host - For use with: MyOwnFreeHost - http://myownfreehost.net
+Curve-Host - For use with: MyOwnFreeHost - http://myownfreehost.net<br />
+
+[![Forks](https://img.shields.io/github/forks/BK-Templates/Curve-Host-Web-Template.svg)](https://github.com/BK-Templates/Curve-Host-Web-Template/network)
+[![Stars](https://img.shields.io/github/stars/BK-Templates/Curve-Host-Web-Template.svg)](hhttps://github.com/BK-Templates/Curve-Host-Web-Template/stargazers)
+[![Open Issues](https://img.shields.io/github/issues/BK-Templates/Curve-Host-Web-Template.svg)](https://github.com/BK-Templates/Curve-Host-Web-Template/issues)
+[![Current Release](https://img.shields.io/github/release/BK-Templates/Curve-Host-Web-Template.svg)](https://github.com/BK-Templates/Curve-Host-Web-Template/releases)
+[![License](https://img.shields.io/badge/License-Creative%20Commons%20License-red.svg)](http://creativecommons.org/licenses/by-sa/3.0/deed.en_US)
 
 Template Name: Curve-Host<br />
 Designer: BurkeKnight & HTMLstig<br />
